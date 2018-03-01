@@ -1,5 +1,5 @@
 /*
- * First time using C.
+ * Hello, world! program created.
  */
 
 #include <stdio.h>
