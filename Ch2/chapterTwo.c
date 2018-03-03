@@ -1,15 +1,11 @@
-/*
- * floatAndIntegerDifferences.c
- *
- *  Created on: Mar 3, 2018
- *      Author: Devan
- */
 
 #include <stdio.h>
 
 int main() {
 
-	/* Output differences between Ints and Floats */
+	printf("%.1f\n", 5E3); /* Scientific notation for large numbers in C. */
+
+	/* Int & Float differences */
 
 	int i;
 	float x;
